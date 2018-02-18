@@ -61,7 +61,12 @@ typings/
 
 /.idea
 
+# office doc files
+.docx
+
 # office temp file
 .~*
 ~$*
+
+# test folder
 /L00 Tests/
