@@ -62,7 +62,7 @@ typings/
 /.idea
 
 # office doc files
-.docx
+*.docx
 
 # office temp file
 .~*
